@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stray-code&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stray-code&theme=onedark&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=stray-code&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stray-code&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/stray-code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stray-code&layout=compact&hide_border=true" /></a> |
+| --- | --- |
 
 <!--
 **stray-code/stray-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
